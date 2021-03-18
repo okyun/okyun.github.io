@@ -1,0 +1,21 @@
+---
+layout: single
+title:  "html 태그 빠르게 만들기 "
+---
+
+<body>
+  section>div>div*5
+</body>
+
+----------------------
+<body>
+  <section>
+    <div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+  </section>
+</body>
+
